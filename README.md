@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **zhaoyi3264/zhaoyi3264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Zhaoyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaoyi3264&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaoyi3264&layout=compact&hide=jupyter%20notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
